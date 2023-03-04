@@ -1,5 +1,5 @@
 # Blender 두 달 습작
-23.01 ~ 23.02 
+시작일 23.01 ~ 23.02 
 
 ### :closed_lock_with_key:캐릭캐릭체인지 자물쇠
 <img src = https://user-images.githubusercontent.com/65931605/222875149-9b125af8-5342-4dc3-ab8e-4d1bbb853b13.gif height=280 width=450>
