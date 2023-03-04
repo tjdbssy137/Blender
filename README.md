@@ -16,7 +16,7 @@
 <img src = https://user-images.githubusercontent.com/65931605/222875256-6a5f9993-6b0a-407b-b907-9f86e26718dc.png height=280 width=450> 
 
 ### :tropical_drink:유리컵
-<img src = https://user-images.githubusercontent.com/65931605/222875146-177eb09d-26a5-4e5e-ae4e-2c828a2600c7.png height=300 width=450>
+<img src = https://user-images.githubusercontent.com/65931605/222875146-177eb09d-26a5-4e5e-ae4e-2c828a2600c7.png height=320 width=450>
 
 ### :deciduous_tree:나무 텍스쳐
-<img src = https://user-images.githubusercontent.com/65931605/222875157-9ad12d1d-0f1b-426e-a46d-70ea2e8517ca.png height=500 width=190>
+<img src = https://user-images.githubusercontent.com/65931605/222875157-9ad12d1d-0f1b-426e-a46d-70ea2e8517ca.png height=450 width=200>
